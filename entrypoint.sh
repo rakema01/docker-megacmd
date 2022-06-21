@@ -31,3 +31,4 @@ else
 	exit $?
 fi
 /bin/bash $@
+chmod a+r /download/*
